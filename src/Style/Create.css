@@ -1,0 +1,11 @@
+.create li{
+    list-style: none;   
+}
+.create ul{
+    display: flex;
+    gap:20px;
+    padding-left: 0px;
+}
+.cancle a{
+    color:black;
+}
